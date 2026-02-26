@@ -9,5 +9,5 @@ npm-debug.log
 .idea
 
 # Docker
-Dockerfile
+#Dockerfile
 docker-compose.yml
